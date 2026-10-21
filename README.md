@@ -2,7 +2,7 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-8B5CF6?logo=anthropic&logoColor=white)](https://claude.ai/download)
 [![Claude Code Projects Index](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-[![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Start-Here)
 
 A curated list of Model Context Protocol (MCP) servers for Claude Code and compatible AI development tools. This collection helps developers extend Claude Code's capabilities with specialized integrations.
 
